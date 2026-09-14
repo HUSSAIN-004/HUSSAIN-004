@@ -20,13 +20,14 @@ B.E. in Artificial Intelligence & Data Science Engineering at PVG College of Eng
 
 Full-Stack Developer Intern at **WhiskerBond Pvt. Ltd.**, building production MERN applications for pet and veterinary service workflows.
 
-Passionate about **LLMs, Retrieval-Augmented Generation, Vector Databases,** and **Data Engineering** — with a goal of combining clean software engineering with practical, production-ready AI.
+Hands-on experience across **Full-Stack Development, AI Engineering, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs),** and **Machine Learning** — building production-grade MERN and FastAPI applications, scalable REST APIs, vector search systems, and AI copilots, with strong foundations in DSA, DBMS, Operating Systems, and System Design.
 
 ```
 const hussain = {
   role: "AI Engineer & Full-Stack Developer",
-  currentlyBuilding: ["Production MERN Apps", "AI Meeting Assistant", "VectorSpace Engine"],
+  currentlyBuilding: ["Production MERN Apps", "AI Meeting Assistant", "AI Codebase Copilot", "VectorSpace Engine"],
   exploring: ["Distributed Systems", "Apache Spark", "AI Infrastructure"],
+  languages: ["English", "Hindi", "Marathi", "Gujarati", "Arabic (Read & Write)"],
   funFact: "I enjoy combining LLMs, RAG, and scalable backend engineering."
 };
 ```
@@ -37,7 +38,7 @@ const hussain = {
 
 **Full Stack Developer Intern — WhiskerBond Pvt. Ltd.** *(Current)*
 - Developing MERN-based features for pet and veterinary service workflows — appointment booking, pet profiles, emergency appointments, birthday tracking, payments, and AWS SES email notifications.
-- Building responsive interfaces, scalable REST APIs, MongoDB integrations, and secure backend/payment workflows.
+- Building responsive interfaces, scalable REST APIs, MongoDB integrations, and secure backend/payment workflows while collaborating through GitHub.
 - Integrated AI-generated pet summaries, consolidating profile data, medical history, and vaccination records into concise overviews for vets and staff.
 
 **MERN Stack Intern — Scalefull Technologies**
@@ -61,7 +62,12 @@ Full-stack placement prep platform with protected auth, dashboard analytics, DSA
 ### ⚡ VectorSpace Engine
 `C++` `HNSW` `KD-Tree` `Ollama` `REST API`
 
-A high-performance vector database built from scratch in C++, implementing HNSW, KD-Tree, and brute-force search — HNSW indexing cuts query latency by ~80–90% over brute-force on large datasets. Ships a fully local RAG pipeline via Ollama and a Web UI with live 2D PCA visualizations.
+A high-performance vector database built from scratch in C++, implementing HNSW, KD-Tree, and brute-force search — HNSW indexing cuts query latency by ~80–90% over brute-force on large datasets. Ships a fully local RAG pipeline via Ollama (768-dimensional embeddings) and a Web UI with live 2D PCA visualizations.
+
+### 🧠 AI Codebase Copilot
+`Python` `FastAPI` `SQLAlchemy` `JWT` `AI` `Vector Search`
+
+AI-powered codebase assistant that scans Git repositories, generates vector embeddings, and enables intelligent code search and contextual Q&A using Retrieval-Augmented Generation (RAG). Features secure JWT-based authentication, repository management APIs, a modular FastAPI backend, and automated code chunking for scalable semantic retrieval.
 
 ### 🎗️ Breast Cancer Prediction
 `Python` `Scikit-Learn` `Machine Learning`
@@ -79,6 +85,7 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 - **Interactive 3D Portfolio** — React, TypeScript, Three.js, GSAP
 - **Tuition Class Management System** — MERN Stack
+- **User Enquiry Form** — MERN Stack
 - **Netflix Clone** / **Amazon Clone** — React, CSS
 - **House Price Prediction** — Python, Machine Learning
 - **Tic Tac Toe** / **Stone Paper Scissors** / **To-Do List Keeper** — JavaScript
@@ -113,8 +120,11 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS SES](https://img.shields.io/badge/AWS_SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
