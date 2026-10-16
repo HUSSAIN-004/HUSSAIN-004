@@ -200,6 +200,7 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
 <br>
+
 ## 📜 Certifications
 
 - NVIDIA DLI – Fundamentals of Deep Learning
@@ -207,7 +208,8 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 - LinkedIn Learning – Introduction to Artificial Intelligence
 - Microsoft & LinkedIn – Microsoft 365 Copilot & Business Chat
 - DISHA Computer Institute – MS Office
-   <br>
+<br>
+
 <div align="center">
 
 ### Let's build something great together
