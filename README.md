@@ -2,7 +2,7 @@
 
 # Hussain M. Kanchwala
 
-### AI Engineer · Full-Stack Developer · MERN · Machine Learning
+## AI Engineer · Data Engineer · Full-Stack Developer · MERN · Machine Learning
 
 Building scalable software, AI-powered applications, and intelligent systems.
 
@@ -25,7 +25,20 @@ Hands-on experience across **Full-Stack Development, AI Engineering, Retrieval-A
 ```
 const hussain = {
   role: "AI Engineer & Full-Stack Developer",
-  currentlyBuilding: ["Production MERN Apps", "AI Meeting Assistant", "AI Codebase Copilot", "VectorSpace Engine"],
+  currentlyBuilding: [
+  "Production MERN Apps",
+  "Uber Data Engineering Pipeline",
+  "AI Meeting Assistant",
+  "AI Codebase Copilot",
+  "VectorSpace Engine"
+]
+
+exploring: [
+  "Distributed Systems",
+  "Apache Spark",
+  "Data Engineering",
+  "AI Infrastructure"
+]
   exploring: ["Distributed Systems", "Apache Spark", "AI Infrastructure"],
   languages: ["English", "Hindi", "Marathi", "Gujarati", "Arabic (Read & Write)"],
   funFact: "I enjoy combining LLMs, RAG, and scalable backend engineering."
@@ -48,6 +61,16 @@ const hussain = {
 <br>
 
 ## Featured Projects
+
+### 🚕 Uber End-to-End Data Engineering Pipeline
+
+`Databricks` `Azure Data Factory` `PySpark`
+`Spark Structured Streaming`
+`Apache Kafka`
+`Azure Event Hubs`
+`Azure Data Lake`
+
+Designed a production-style real-time data engineering pipeline that streams Uber ride-event data using Apache Kafka and Azure Event Hubs into Azure Data Lake. Built metadata-driven ETL pipelines in Azure Data Factory and PySpark Structured Streaming jobs in Databricks. Designed a STAR schema with Slowly Changing Dimensions (SCD) for scalable analytics-ready reporting.
 
 ### 🤖 AI Meeting Assistant
 `Python` `LangChain` `OpenAI Whisper` `ChromaDB` `Streamlit`
@@ -141,6 +164,23 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-121D33?style=for-the-badge)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF6F00?style=for-the-badge)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Model Armor](https://img.shields.io/badge/Model_Armor-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+## Data Engineering
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Event Hubs](https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark Structured Streaming](https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge)
+![STAR Schema](https://img.shields.io/badge/STAR_Schema-4CAF50?style=for-the-badge)
+![Slowly Changing Dimensions](https://img.shields.io/badge/SCD-673AB7?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Data & Analytics**
 
@@ -160,7 +200,14 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
 <br>
+## 📜 Certifications
 
+- NVIDIA DLI – Fundamentals of Deep Learning
+- Microsoft & LinkedIn – Career Essentials in Generative AI
+- LinkedIn Learning – Introduction to Artificial Intelligence
+- Microsoft & LinkedIn – Microsoft 365 Copilot & Business Chat
+- DISHA Computer Institute – MS Office
+   <br>
 <div align="center">
 
 ### Let's build something great together
