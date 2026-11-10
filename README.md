@@ -50,10 +50,12 @@ exploring: [
 ## Experience
 
 **Full Stack Developer Intern — WhiskerBond Pvt. Ltd.** *(Current)*
-- Developing MERN-based features for pet and veterinary service workflows — appointment booking, pet profiles, emergency appointments, birthday tracking, payments, and AWS SES email notifications.
-- Building responsive interfaces, scalable REST APIs, MongoDB integrations, and secure backend/payment workflows while collaborating through GitHub.
-- Integrated AI-generated pet summaries, consolidating profile data, medical history, and vaccination records into concise overviews for vets and staff.
 
+- Developing and maintaining production-ready MERN applications for pet care and veterinary workflows, including appointment scheduling, pet profiles, emergency services, payments, and AWS SES email notifications.
+- Building scalable REST APIs, MongoDB integrations, Redis-based caching, secure payment workflows, and responsive React interfaces while collaborating through GitHub and Agile development practices.
+- Implementing backend optimizations, API testing, deployment automation, Cloudflare CDN integration, and production infrastructure improvements to enhance application performance, scalability, and reliability.
+- Integrated AI-generated pet summaries that consolidate profile information, medical history, and vaccination records into concise, actionable overviews for veterinarians and clinic staff.
+  
 **MERN Stack Intern — Scalefull Technologies**
 - Worked across frontend and backend modules using MongoDB, Express.js, React, and Node.js.
 - Contributed to API development, database integration, testing, documentation, and debugging.
@@ -152,6 +154,7 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 **Backend & Databases**
 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
