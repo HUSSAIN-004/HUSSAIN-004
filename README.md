@@ -62,6 +62,17 @@ exploring: [
 
 ## Featured Projects
 
+### 🌍 Elsewhere — AI Trip Planner
+
+`Python` `FastAPI` `Streamlit`
+`LangGraph`
+`LangChain`
+`Groq`
+`Google Places API`
+`Docker`
+
+Designed a production-ready agentic AI travel planner that orchestrates multiple tools through LangGraph to generate personalized travel itineraries. Integrated Google Places, weather, budgeting, and currency conversion services, then deployed the application on Oracle Cloud using Docker, Nginx, and GitHub Actions CI/CD.
+
 ### 🚕 Uber End-to-End Data Engineering Pipeline
 
 `Databricks` `Azure Data Factory` `PySpark`
@@ -141,6 +152,7 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 **Backend & Databases**
 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -154,6 +166,9 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 **AI / ML & LLM Tooling**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
@@ -191,6 +206,9 @@ Full-stack appointment booking platform with user, doctor, and admin dashboards,
 
 **Tools**
 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
